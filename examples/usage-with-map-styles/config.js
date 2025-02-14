@@ -5,8 +5,9 @@ import Storelocatorjs from '../../dist/storelocator.js'
 /* eslint-disable no-unused-vars */
 const myStorelocator = new Storelocatorjs({
 	options: {
-		apiKey: 'CREATE_YOUR_API_KEY',
-		webServiceUrl: 'https://storelocator-functions.vercel.app',
+		apiKey: 'AIzaSyDKZH5z-pyaf9oRC-_sLDvOctRavK4j_Dk',
+		webServiceUrl:
+			'https://vercel.com/jerrylidotme/storelocator-api/Hd8swDAQUgDNtmXGvrDZBwa27BdM',
 		map: {
 			options: {
 				center: [46.227638, 2.213749],
